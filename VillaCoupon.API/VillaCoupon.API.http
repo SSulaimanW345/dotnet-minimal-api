@@ -1,0 +1,6 @@
+@VillaCoupon.API_HostAddress = http://localhost:5290
+
+GET {{VillaCoupon.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
